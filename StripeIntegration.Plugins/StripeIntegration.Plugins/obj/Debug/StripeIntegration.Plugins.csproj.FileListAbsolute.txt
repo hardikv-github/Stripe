@@ -1,0 +1,4 @@
+D:\All\Sam\StripeIntegration.Plugins\StripeIntegration.Plugins\obj\Debug\StripeIntegration.Plugins.csproj.AssemblyReference.cache
+D:\All\Sam\StripeIntegration.Plugins\StripeIntegration.Plugins\obj\Debug\StripeIntegration.Plugins.csproj.CoreCompileInputs.cache
+D:\All\Sam\StripeIntegration.Plugins\StripeIntegration.Plugins\obj\Debug\StripeIntegration.Plugins.dll
+D:\All\Sam\StripeIntegration.Plugins\StripeIntegration.Plugins\obj\Debug\StripeIntegration.Plugins.pdb
